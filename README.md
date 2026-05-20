@@ -1,18 +1,6 @@
 # GNS3 Multi-AS Network Simulation
 
-> **Báo cáo đồ án Mạng Máy Tính Nâng Cao**  
 > Enterprise network simulation with OSPF, RIPv2, BGP, and route redistribution
-
----
-
-## Author
-
-| | |
-|---|---|
-| **Name** | Uông Nhật Nam |
-| **Student ID** | 22120221 |
-| **Email** | [22120221@student.hcmus.edu.vn](mailto:22120221@student.hcmus.edu.vn) |
-| **Phone** | 0353461435 |
 
 ---
 
@@ -236,11 +224,3 @@ All routers show complete routing tables with routes learned from all three auto
 
 ---
 
-## References
-
-1. OSPF Configuration Guide — HCMUS Lab Manual
-2. RIPv1 & RIPv2 Configuration Guide — HCMUS Lab Manual
-3. Static Routing Configuration Guide — HCMUS Lab Manual
-4. BGP Configuration Guide — HCMUS Lab Manual
-5. [BGP Routing Protocol Overview — VNPro](https://vnpro.vn/thu-vien/so-luoc-ve-giao-thuc-dinh-tuyen-bgp-2061.html)
-6. [OSPF Dynamic Routing Configuration — VNPro](https://vnpro.vn/tin-tuc/cau-hinh-dinh-tuyen-dong-ospf-1151.html)
