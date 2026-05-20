@@ -1,0 +1,23 @@
+# Cisco IOS images (copyrighted)
+*.image
+*.bin
+images/
+
+# GNS3 runtime artifacts
+*_stdout.txt
+*_lock
+project-files/dynamips/ilt_*
+
+# Temporary/backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project runtime (auto-generated)
+project-files/dynamips/*/
+project-files/images/
